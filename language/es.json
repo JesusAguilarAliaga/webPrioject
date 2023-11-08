@@ -1,0 +1,97 @@
+{
+    "nav": {
+        "home": "INICIO",
+        "services": "SERVICIOS",
+        "projects": "PROYECTOS",
+        "skills": "HABILIDADES",
+        "about": "SOBRE MÍ",
+        "contact": "CONTACTO"
+    },
+    
+    "titles": {
+        "h1": "CREANDO Y DISEÑANDO SITIOS WEB FÁCILES DE USAR",
+        "t1": "Lo que hago",
+        "t2": "Servicios",
+        "t3": "Proyectos",
+        "t4": "Prototipos",
+        "t5": "Habilidades",
+        "t6": "Sobre mí",
+        "t7": "Contacto"
+    },
+
+    "cardWh": {
+        "t1": "Diseño UX/UI",
+        "p1": "El diseño es lo que da vida a un sitio web, por lo que cada proyecto de desarrollo de un sitio web requiere un diseñador hábil y creativo para resolver profesionalmente cualquier pregunta relacionada con el diseño. <br>También creando una experiencia más amigable con el usuario, a través de la investigación de productos.",
+        "t2": "Desarrollo Web",
+        "p2": "Con el uso de HTML y CSS, se crea la estructura y el diseño, dándole un aspecto único a su sitio web. <br>Luego, con la ayuda de JavaScript, transforme una página en un ecosistema dinámico, agregando funcionalidad y elementos interactivos como mapas, películas o juegos en línea al sitio web.",
+        "t3": "Sitios Web Responsivos",
+        "p3": "Las personas realizan la mayor parte de su navegación, compras y búsqueda de todos los servicios en dispositivos móviles. <br>Al empezar a crear un sitio web, pienso primero en la estructura para dispositivos móviles, para que esté optimizado para diferentes plataformas y navegadores móviles.",
+        "t4": "Rediseño de Sitios Web",
+        "p4": "Si su sitio web no es atractivo y no está cuidadosamente diseñado, podría terminar perdiendo muchos usuarios nuevos, es necesario que su sitio web esté siempre actualizado a las últimas tendencias del mercado, de esta manera recrear un sitio web que luzca genial y funcione a la perfección."
+    },
+
+    "cardSe": {
+        "t1": "Soporte y mantenimiento de sitios web",
+        "t2": "Optimizar la velocidad de su sitio web",
+        "t3": "Corrección de errores HTML y CSS",
+        "t4": "Arreglo de enlaces rotos",
+        "t5": "Revisión de análisis de sitios web",
+        "t6": "Desarrollo de nuevo contenido para sitios web",
+        "t7": "Optimización SEO para los motores de búsqueda",
+        "t8": "Revisión de la consistencia de diseño en su sitio web"
+    },
+    "cardPopUp": {
+        "p1": "El sitio web de su empresa es como un automóvil, si no se le da mantenimiento y servicio regularmente, eventualmente se descompondrá. <br><br>Ahora que casi todo el mundo está poniendo sus negocios en línea, hay mucha competencia por ahí, todos sus competidores se esfuerzan por asegurarse de que su sitio web ocupe un lugar destacado en los motores de búsqueda, entonces, ¿cómo espera mantenerse por delante de su competencia si no está maximizando su retorno de la inversión y aprovechando al máximo su sitio web? <br><br>Debe realizar un mantenimiento regular del sitio web, la mayor parte del mantenimiento de sitios web puede ser de autoservicio, pero es mejor contratar un servicio de mantenimiento de sitios web para que lo ayude. De esta manera, puede concentrarse en hacer crecer su negocio y preocuparse menos por el mantenimiento de su sitio web.",
+        "p2": "¿Sabía que el veinticinco por ciento de los usuarios se van de un sitio web si tarda más de tres segundos en cargarse? <br>La carga de la página es obviamente una parte importante de la experiencia del usuario.<br><br>Sin embargo, tendemos a dejarlo pasar para acomodar la nueva funcionalidad ingeniosa o el diseño estético del sitio web, en realidad, a los visitantes de la web no les importan todas las campanas y silbatos. Se preocupan por acceder a la información que desean lo más rápido posible. Otro factor relevante a considerar es cómo la velocidad de carga de la página afecta su clasificación en los motores de búsqueda. <br><br>Un servicio de soporte web siempre verificará la velocidad de sus sitios web mediante el uso constante de herramientas de verificación de velocidad para mejorar continuamente la forma en que se carga su sitio web.",
+        "p3": "El código HTML no es fácil, especialmente si uno no sabe nada sobre la codificación de sitios web. <br><br>Es necesario que una persona preste atención a los detalles, para garantizar que su sitio web funcione bien. Lo que podría parecer un error menor podría dar lugar a una serie de problemas, como páginas con aspecto raro, contenido multimedia faltante, etc. <br><br>Un soporte de sitios web puede inspeccionar, encontrar y solucionar problemas relacionados con HTML.",
+        "p4": "Cada enlace en su sitio web debe conducir exactamente al lugar correcto, pero a veces los enlaces pueden fallar. <br><br>Un sitio o recurso al que se vinculó anteriormente podría desaparecer, una página de su sitio web podría dejar de estar disponible o podría mover una publicación y olvidarse de actualizar otros enlaces a ella. <br><br>Los enlaces rotos pueden ser perjudiciales para su sitio web, podrían dar a los visitantes la impresión de que:",
+            "li1": "a) Su sitio web no es fácil de usar",
+            "li2": "b) No actualiza regularmente su sitio web",
+            "li3": "c) No eres creíble <br><br>",
+            "des": "Un servicio de mantenimiento de un sitio web revisará periódicamente su sitio web para identificar cualquier enlace roto, tan pronto como los encuentren, los modificarán o eliminarán.",
+        "p5": "El rendimiento de su sitio web debe ser monitoreado para asegurarse de que todo funcione como debería. <br><br>Un soporte de sitios web analizará las métricas de alto nivel, como cuántos visitantes nuevos y recurrentes ha recibido su sitio web durante la última semana o qué publicaciones de blog son las más leídas. <br><br>Luego harán los ajustes correspondientes a su sitio web para garantizar que todas las métricas estén en su punto máximo. <br><br>",
+        "p6": "Su estrategia de contenido puede estar acertada, pero siempre es una buena idea mejorarla creando nuevos tipos de contenido. <br><br>Su contenido web también necesita estar actualizado. <br><br>Si escribió una publicación que se publicó hace años, es posible que no sea relevante en este momento y es posible que deba actualizar parte de la información.",
+        "p7": "Revisar regularmente su sitio web en busca de áreas donde se puede mejorar la capacidad de búsqueda puede contribuir en gran medida a mejorar la optimización del motor de búsqueda. <br><br>Las publicaciones de su blog se pueden modificar para incluir palabras clave populares y competitivas, la investigación de palabras clave también es importante al crear contenido nuevo para su sitio web. <br><br>Como parte de la estrategia de SEO, también es importante identificar los problemas estructurales dentro de su sitio web que pueden afectar la forma en que los motores de búsqueda ven su sitio.",
+        "p8": "Su sitio web debería funcionar correctamente en todas las versiones de navegadores de sitios web como Chrome, Safari, Firefox, etc. <br><br>Estos navegadores se actualizan con frecuencia y si su sitio web no se adapta a las actualizaciones, es posible que no se muestre o que no se vea como usted desea. <br><br>Esto podría afectar negativamente su negocio y su marca, también es importante asegurarse de tener un diseño de sitio web receptivo que se vea bien en los dispositivos móviles, otro factor es la consistencia de diseño, si tiene muchos elementos de marca que representan a su empresa, deben incluirse de manera uniforme en todas sus páginas."
+    },
+
+    "cardPr": {
+        "t1": "Serpiente Neon",
+        "p1": "El juego de la serpiente con un estilo neon",
+        "t2": "Mascara de tarjeta",
+        "p2": "Introducción de datos mas segura",
+        "t3": "Juego de memoria",
+        "p3": "Podrás ganar el nivel difícil?",
+        "t4": "Proyecto web",
+        "p4": "Mi inspiración para hacer este sitio web",
+        "t5": "Temporizador pomodoro",
+        "p5": "Un temporizador con temas",
+        "t6": "Proyecto web",
+        "p6": "Uno de mis primeros sitios web",
+        "play": "Jugar",
+        "website": "Sitio web"
+    },
+    
+    "cardProto": {
+        "t1": "Aplicación de música",
+        "p1": "Un diseño de aplicación para Android",
+        "t2": "Diseño web",
+        "p2": "Creado para estudio de videojuegos",
+        "t3": "Diseño web",
+        "p3": "Prototipo para una web de abogados",
+        "t4": "Diseño web",
+        "p4": "Creado para una empresa de pintura",
+        "t5": "Diseño web",
+        "p5": "Prototipo para una web de pagos"
+    },
+
+    "about": {
+        "p1": "Hola, mi nombre es Jesús Aguilar, empece en el mundo de las computadoras desde hace muchos años, trabaje por mucho tiempo armando computadoras para clientes, pero el mundo del desarrollo web me llamaba mucho. <br> <br>Fui tomando varios cursos línea sobre el desarrollo web, aprendiendo continuamente, fui mejorando mis habilidades, mi estilo de diseño es minimalista, haciendo que todo sea más limpio y accesible para los usuarios. <br> <br>Soy una persona muy curiosa, eso me llevo a tocar otras tecnologías como Unity, que se usa para crear videojuegos, y también Blender para hacer diseños 3D, y sigo buscando cada día nuevas soluciones para mejorar el desarrollo de productos web."
+    },
+
+    "form": {
+        "t1": "Como puedo ayudarte?",
+        "name": "Nombre",
+        "email": "Correo electrónico"
+    }
+}

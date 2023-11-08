@@ -1,0 +1,97 @@
+{
+    "nav": {
+        "home": "HOME",
+        "services": "SERVICES",
+        "projects": "PROJECTS",
+        "skills": "SKILLS",
+        "about": "ABOUT ME",
+        "contact": "CONTACT"
+    },
+
+    "titles": {
+        "h1": "CREATING AND DESIGNING USER-FRIENDLY WEBSITES",
+        "t1": "What I Do",
+        "t2": "Services",
+        "t3": "Projects",
+        "t4": "Prototypes",
+        "t5": "Skills",
+        "t6": "About Me",
+        "t7": "Contact"
+    },
+
+    "cardWh": {
+        "t1": "UI/UX designer",
+        "p1": "Design is what brings a website to life, so every website development project requires a skilled and creative designer to professionally resolve any design-related questions. <br>Also creating a friendlier experience with the user, through product research.",
+        "t2": "Web development",
+        "p2": "With the use of HTML and CSS, the structure and layout is created, giving your website a unique look. <br>Then, with the help of JavaScript, transform a page into a dynamic ecosystem, adding functionality and interactive elements such as maps, movies or online games to the website.",
+        "t3": "Responsive websites",
+        "p3": "People do most of their browsing, shopping, and searching for all services on mobile devices. <br>I dedicate myself to the creation of websites, thinking first of mobile devices, so that it is optimized for different platforms and mobile browsers.",
+        "t4": "Website redesign",
+        "p4": "If your website is not attractive, and not carefully designed, you could end up losing a lot of new users, it is necessary that your website is always updated to the latest market trends, in this way to recreate a website that looks great and works perfectly."
+    },
+
+    "cardSe": {
+        "t1": "Web support and maintenance",
+        "t2": "Improving website speed",
+        "t3": "Fixing HTML and CSS errors",
+        "t4": "Fixing broken links",
+        "t5": "Reviewing your website analytics",
+        "t6": "Develop new content fot your website",
+        "t7": "Search engine optimization SEO",
+        "t8": "Design consistency review on your website"
+    },
+    "cardPopUp": {
+        "p1": "Your business website is like a car, if it's not regularly maintained and serviced, it will eventually break down. <br><br>Now that nearly everyone is taking their business online, there is a lot of competition out there, your competitors are all scrambling to ensure their website ranks highly on search engines, so how do you expect to stay ahead of your competition if you aren't maximizing your return on investment and getting the most out of your website? <br><br>You need to perform regular website maintenance, most website maintenance can be self-service but it's better to hire a website maintenance service to help you with it. This way, you can focus on growing your business and worry less about maintaining your website.",
+        "p2": "Did you know that 25 percent of users leave a website if it takes more than three seconds to load? <br>Page loading is obviously an important part of the user experience.<br><br>However, we tend to let it slide to accommodate nifty new functionality or aesthetic website design, really, to Web visitors don't mind all the bells and whistles. They care about accessing the information they want as quickly as possible. Another relevant factor to consider is how page load speed affects your search engine ranking. <br><br>A web support service will always check the speed of your websites by constantly using speed check tools to continuously improve the way your website loads.",
+        "p3": "HTML coding is not easy, especially if one knows nothing about website coding. <br><br>It is necessary for a person to pay attention to details, to ensure that your website works well. What might seem like a minor bug could lead to a number of issues, such as weird-looking pages, missing media, and so on. <br><br>A website support can inspect, find, and fix HTML-related issues.",
+        "p4": "Every link on your website should lead exactly to the right place but sometimes links can go bad. <br><br>A site or resource you linked to earlier might disappear, a page on your website might become unavailable or you might move a post and forget to update others that link to it. <br><br>Broken links can be detrimental to your website, they could give visitors the impression that: <br><br>",
+            "li1": "a) Your website is not user friendly <br>",
+            "li2": "b) You don't regularly update your website <br>",
+            "li3": "c) You are not credible <br> <br>",
+            "des": "A website maintenance service will periodically review your website to identify any broken links, as soon as they are found they will modify or remove them.",
+        "p5": "Your website performance should be monitored to make sure everything is working as it should. <br><br>A website support will look at high-level metrics like how many new and returning visitors your website has received in the last week or which blog posts are the most read. <br><br>They will then make adjustments to your website to ensure all metrics are at their peak. <br><br>",
+        "p6": "Your content strategy might be on point but it's always a good idea to improve it by creating new types of content. <br><br>Your web content also needs to be up to date. <br><br>If you wrote a post that was published years ago, it might not be relevant right now and some of the information might need to be updated.",
+        "p7": "Regularly reviewing your website for areas where searchability can be improved can go a long way toward improving search engine optimization. <br><br>Your blog posts can be modified to include popular and competitive keywords, keyword research is also important when creating new content for your website. <br><br>As part of your SEO strategy, it's also important to identify structural issues within your website that may affect how search engines view your site.",
+        "p8": "Your website should work properly on all versions of website browsers like Chrome, Safari, Firefox, etc. <br><br>These browsers update frequently and if your website does not adapt to the updates, it may not display or may not look the way you want. <br><br>This could negatively affect your business and your brand, it's also important to make sure you have a responsive website design that looks good on mobile devices, another factor is design consistency, if you have many brand elements that represent your company, they should be included consistently across all of your pages."
+    },
+
+    "cardPr": {
+        "t1": "Neon Snake",
+        "p1": "The snake game in neon?? it is right.",
+        "t2": "Mask for Card",
+        "p2": "Secure and restricted data",
+        "t3": "Memory Game",
+        "p3": "Can you win on hard level?",
+        "t4": "Website Project",
+        "p4": "Inspiration to make this website",
+        "t5": "Pomodoro Timer",
+        "p5": "A small project(with themes)",
+        "t6": "Website Project",
+        "p6": "One of my first websites",
+        "play": "Play",
+        "website": "Website"
+    },
+    
+    "cardProto": {
+        "t1": "Music App",
+        "p1": "A music app design with me",
+        "t2": "Game developer design",
+        "p2": "Design for a video game studio",
+        "t3": "Prototype - Lawyer Web",
+        "p3": "Website for lawyers",
+        "t4": "Painter Business Web",
+        "p4": "Website for a painter business",
+        "t5": "Business Payment Design",
+        "p5": "Prototype for a Payment Web"
+    },
+
+    "about": {
+        "p1": "Hello, my name is Jesús Aguilar, I started in the world of computers many years ago, I worked for a long time building computers for clients, but the world of web development called me a lot. <br> <br>I was taking several online courses on web development, learning continuously, I was improving my skills, my design style is minimalist, making everything cleaner and more accessible for users. <br> <br>I am a very curious person, that led me to touch other technologies such as Unity, which is used to create video games, and also Blender to make 3D designs, and I keep looking for new solutions every day to improve the development of web products."
+    },
+
+    "form": {
+        "t1": "How can I help you?",
+        "name": "Name",
+        "email": "Email"
+    }
+}
